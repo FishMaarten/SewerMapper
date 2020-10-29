@@ -13,8 +13,7 @@ Colab between
 - [RANSAC](http://www.hinkali.com/Education/PointCloud.pdf): Detect basic shapes in unorganized point cloud data.
 - [SVD](https://meshlogic.github.io/posts/jupyter/curve-fitting/fitting-a-circle-to-cluster-of-3d-points/):  Fit a circle to the cluster of points in 3D space.
 
-During our initial research we came across some promising algorithms, the use case however provided only 4 days of intense development.  
-This lead to the decision to focus our efforts on mapping the shaft of the manhole, creating our own algorithm, inspired by the researched methods.
+During our initial research we came across some promising algorithms, the use case however provided only 4 days of inense development. This lead to the decision to focus our efforts on mapping the main shaft of the manhole, creating our own algorithm, ispired by the researched methods.
 
 # CloudSchematic
 
