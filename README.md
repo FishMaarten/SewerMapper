@@ -35,6 +35,10 @@ Module currently only reads raw vertices from a json file.
 
 Read [this](https://github.com/FishMaarten/SewerMapper/blob/master/Notebooks/presentation.ipynb) notebook for a more visual tutorial.
 
+There are two json files provided for demonstration:
+- cylinder.json is an example of a single cylinder point cloud.
+- cylinder_SEG.json is a composition of multiple cylinders that form the shaft.
+
 ```py
 import json
 from cloudtool import CloudSchematic
