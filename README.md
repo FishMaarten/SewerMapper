@@ -1,10 +1,10 @@
 # Usecase: SewerMapper
 
 Colab between
-- Wim Christiaansen
-- Santosh Ahirrao
-- Steven Verkest
-- Maarten Fish
+- Wim Christiaansen [\*](https://github.com/WimChristiaansen)
+- Santosh Ahirrao [\*](https://github.com/SantoshAhirrao)
+- Steven Verkest [\*](https://github.com/Steven-Verkest-AI)
+- Maarten Fish [\*](https://github.com/FishMaarten)
 
 **Challenge**: Automate manhole (sewer) geometry from pointcloud data and generate scientific drawing
 
