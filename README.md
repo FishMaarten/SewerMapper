@@ -55,5 +55,5 @@ with open("path-to-json", "r") as file:
 - [spectral_clustering.ipynb](https://github.com/FishMaarten/SewerMapper/blob/master/Notebooks/spectral_clustering.ipynb) Attempt at automating segmentation of manhole components
 - [cluster_cube.ipynb](https://github.com/FishMaarten/SewerMapper/blob/master/Notebooks/cluster_cube.ipynb) Ransac algorithm attempt
 - [cylinder.ipynb](https://github.com/FishMaarten/SewerMapper/blob/master/Notebooks/cylinder.ipynb) Development of the single cylinder mapping
-- [cloud_schematic.ipynb](https://github.com/FishMaarten/SewerMapper/blob/master/Notebooks/cloud_schematic.ipynb) Development of CloudSchematic module
+- [cloud_schematics.ipynb](https://github.com/FishMaarten/SewerMapper/blob/master/Notebooks/cloud_schematics.ipynb) Development of CloudSchematic module
 - [presentation.ipynb](https://github.com/FishMaarten/SewerMapper/blob/master/Notebooks/presentation.ipynb) Visual presentation of the module
