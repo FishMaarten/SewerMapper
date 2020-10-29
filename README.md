@@ -3,6 +3,7 @@
 Colab between
 - Wim Christiaansen
 - Santosh Ahirrao
+- Steven Verkest
 - Maarten Fish
 
 **Challenge**: Automate manhole (sewer) geometry from pointcloud data and generate scientific drawing
